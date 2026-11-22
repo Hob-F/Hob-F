@@ -24,6 +24,12 @@
 - JVM 调优与线上问题排查
 - 沙箱的 cgroups 资源隔离
 
+## 📊 GitHub Stats
+
+![Hob-F's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hob-F&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/top-langs/?username=Hob-F&layout=compact&theme=default)
+
+
 ## 📫 联系我
 
 邮箱:`3070046778@QQ.com`
